@@ -9,7 +9,7 @@ layout: default
 > This mechanic was inspired by Portal, Antichamber, and Budget Cuts (VR). I am currently working on integrating this into the LockTag VR game I'm working on in order to have smooth transition between teleportation.
 > I believe replicating the teleport mechanic from Budget Cuts with a few modifications will lead to less confusing and more seemless gameplay.
 
-[![A Unity prototype of level design](https://img.youtube.com/vi/fmQHXP3qq_c/1.jpg)](https://www.youtube.com/watch?v=fmQHXP3qq_c)
+[![A Unity prototype of level design](https://img.youtube.com/vi/fmQHXP3qq_c/0.jpg)](https://www.youtube.com/watch?v=fmQHXP3qq_c)
 
 ### Above is a recent level prototype (11/15/17)
 
