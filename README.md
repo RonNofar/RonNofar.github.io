@@ -1,3 +1,3 @@
 # RonNofar.github.io
 
-### See my portfolio [here](http://ronnofar2.wixsite.com/portfolio)
+### Old portfolio can be found [here](http://ronnofar2.wixsite.com/portfolio)
