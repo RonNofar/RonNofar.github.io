@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Recent work
+
 [![A Unity prototype of a mechanic](https://img.youtube.com/vi/kB-inekeAoQ/0.jpg)](https://www.youtube.com/watch?v=kB-inekeAoQ)
 
 ### Above is a recent mechanic prototype (11/23/17)
