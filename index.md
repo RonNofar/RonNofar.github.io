@@ -4,6 +4,13 @@ layout: default
 
 # Recent work
 
+[![First machine learning try in Unity](https://img.youtube.com/vi/75ecS3_3bAQ/0.jpg)](https://www.youtube.com/watch?v=75ecS3_3bAQ)
+
+### Above is a machine learning test in Unity (12/3/17)
+
+> This is my first try at using Unity's new machine learning API. None of it is a part of Unity yet and so the necessary components are very scattared and there is little to none documentation on this.
+> If you need help setting this up, shoot me an email (in my resume).
+
 [![A Unity prototype of a mechanic](https://img.youtube.com/vi/kB-inekeAoQ/0.jpg)](https://www.youtube.com/watch?v=kB-inekeAoQ)
 
 ### Above is a recent mechanic prototype (11/23/17)
