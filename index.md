@@ -4,6 +4,13 @@ layout: default
 
 # Recent work
 
+[![Soccer using Unity's Machine Learning](https://img.youtube.com/vi/xaBPT9u0imw/0.jpg)](https://www.youtube.com/watch?v=xaBPT9u0imw)
+
+### Above is machine learning agents playing soccer in Unity (12/13/17)
+
+> After about a week and a half of experimenting with Unity's ML-Agents API, I started changing the way I train the same agents.
+> You can see The differences in play styles with evolved from different reward systems.
+
 [![First machine learning try in Unity](https://img.youtube.com/vi/75ecS3_3bAQ/0.jpg)](https://www.youtube.com/watch?v=75ecS3_3bAQ)
 
 ### Above is a machine learning test in Unity (12/3/17)
