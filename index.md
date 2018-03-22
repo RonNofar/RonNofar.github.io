@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+Click on any image to go to video or project.
 
 # Recent work
 
-![Recent Maya API work](https://drive.google.com/uc?export=download&id=1y0Jwi5O0aKMcEuwnlbSxSkAwnvRNeoNF)
+[![Recent Maya API work](https://drive.google.com/uc?export=download&id=1y0Jwi5O0aKMcEuwnlbSxSkAwnvRNeoNF)](http://github.com/RonNofar/RToolPackage)
 
 ### Above is one of the recent examples of my work in Maya API (Jan - Mar)
 
@@ -45,3 +46,11 @@ layout: default
 
 > This is a project originally not intended to be a game. This is built off of a 3D world-wraping mechanic I developed a while back. I started this project again as a level design challenge.
 > The video above is an older version of the same level but the download link on the left leads to the latest _stable_ version and tests out some lighting meant to guide the player.
+
+# Links
+
+[Resume](https://docs.wixstatic.com/ugd/4d06fa_888e4ca88c8141178955f270f481436c.pdf)
+[Portfolio](https://ronnofar2.wixsite.com/portfolio)
+
+Links to project prototypes are available in desktop-mode only.
+
