@@ -11,6 +11,9 @@ Click on any image to go to video or project.
 
 > I have been recently learning the Maya API in order to create tools for speeding up production pipelines. 
 > I am also currently working with Maya MASH API for procedural animations.
+> I have taken these tools and combined them with other Python tools I have written over the years. 
+> This package is named "RTool" and can be acquired through pip.
+> Click on the image above to go to the package repository.
 
 [![Sword fighter using Unity's Machine Learning](https://img.youtube.com/vi/aI7Ox99FL5k&t/0.jpg)](https://www.youtube.com/watch?v=aI7Ox99FL5k&t)
 
@@ -18,6 +21,7 @@ Click on any image to go to video or project.
 
 > First try using rigidbody joints for Unity's ML-Agents API.  
 > The fighter is somewhat blind and is only aware of the distance from the sword to the goal.
+> Click on the image above to see the video demo.
 
 [![Soccer using Unity's Machine Learning](https://img.youtube.com/vi/xaBPT9u0imw/0.jpg)](https://www.youtube.com/watch?v=xaBPT9u0imw)
 
@@ -25,6 +29,7 @@ Click on any image to go to video or project.
 
 > After about a week and a half of experimenting with Unity's ML-Agents API, I started changing the way I train the same agents.
 > You can see The differences in play styles with evolved from different reward systems.
+> Click on the image above to see the video demo.
 
 [![First machine learning try in Unity](https://img.youtube.com/vi/75ecS3_3bAQ/0.jpg)](https://www.youtube.com/watch?v=75ecS3_3bAQ)
 
@@ -32,6 +37,7 @@ Click on any image to go to video or project.
 
 > This is my first try at using Unity's new machine learning API. None of it is a part of Unity yet and so the necessary components are very scattared and there is little to none documentation on this.
 > If you need help setting this up, shoot me an email (in my resume).
+> Click on the image above to see the video demo.
 
 [![A Unity prototype of a mechanic](https://img.youtube.com/vi/kB-inekeAoQ/0.jpg)](https://www.youtube.com/watch?v=kB-inekeAoQ)
 
@@ -39,6 +45,7 @@ Click on any image to go to video or project.
 
 > This mechanic was inspired by Portal, Antichamber, and Budget Cuts (VR). I am currently working on integrating this into the LockTag VR game I'm working on in order to have smooth transition between teleportation.
 > I believe replicating the teleport mechanic from Budget Cuts with a few modifications will lead to less confusing and more seemless gameplay.
+> Click on the image above to see the video demo.
 
 [![A Unity prototype of level design](https://img.youtube.com/vi/fmQHXP3qq_c/0.jpg)](https://www.youtube.com/watch?v=fmQHXP3qq_c)
 
@@ -46,6 +53,7 @@ Click on any image to go to video or project.
 
 > This is a project originally not intended to be a game. This is built off of a 3D world-wraping mechanic I developed a while back. I started this project again as a level design challenge.
 > The video above is an older version of the same level but the download link on the left leads to the latest _stable_ version and tests out some lighting meant to guide the player.
+> Click on the image above to see the video demo.
 
 # Links
 
