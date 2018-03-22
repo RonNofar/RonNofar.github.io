@@ -58,6 +58,7 @@ Click on any image to go to video or project.
 # Links
 
 [Resume](https://docs.wixstatic.com/ugd/4d06fa_888e4ca88c8141178955f270f481436c.pdf)
+
 [Portfolio](https://ronnofar2.wixsite.com/portfolio)
 
 Links to project prototypes are available in desktop-mode only.
