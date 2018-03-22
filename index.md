@@ -4,6 +4,13 @@ layout: default
 
 # Recent work
 
+[![Sword fighter using Unity's Machine Learning] (https://img.youtube.com/vi/aI7Ox99FL5k&t/0.jpg)](https://www.youtube.com/watch?v=aI7Ox99FL5k&t)
+
+### Above is a machine learning agent learning to use an arm and sword (12/20/17)
+
+> First try using rigidbody joints for Unity's ML-Agents API.  
+> The fighter is somewhat blind and is only aware of the distance from the sword to the goal.
+
 [![Soccer using Unity's Machine Learning](https://img.youtube.com/vi/xaBPT9u0imw/0.jpg)](https://www.youtube.com/watch?v=xaBPT9u0imw)
 
 ### Above is machine learning agents playing soccer in Unity (12/13/17)
