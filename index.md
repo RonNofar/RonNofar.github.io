@@ -4,7 +4,14 @@ layout: default
 
 # Recent work
 
-[![Sword fighter using Unity's Machine Learning] (https://img.youtube.com/vi/aI7Ox99FL5k&t/0.jpg)](https://www.youtube.com/watch?v=aI7Ox99FL5k&t)
+[Recent Maya API work](https://drive.google.com/uc?export=download&id=1y0Jwi5O0aKMcEuwnlbSxSkAwnvRNeoNF)
+
+### Above is one of the recent examples of my work in Maya API (Jan - Mar)
+
+> I have been recently learning the Maya API in order to create tools for speeding up production pipelines. 
+> I am also currently working with Maya MASH API for procedural animations.
+
+[![Sword fighter using Unity's Machine Learning](https://img.youtube.com/vi/aI7Ox99FL5k&t/0.jpg)](https://www.youtube.com/watch?v=aI7Ox99FL5k&t)
 
 ### Above is a machine learning agent learning to use an arm and sword (12/20/17)
 
