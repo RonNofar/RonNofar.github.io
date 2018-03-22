@@ -4,7 +4,7 @@ layout: default
 
 # Recent work
 
-[Recent Maya API work](https://drive.google.com/uc?export=download&id=1y0Jwi5O0aKMcEuwnlbSxSkAwnvRNeoNF)
+![Recent Maya API work](https://drive.google.com/uc?export=download&id=1y0Jwi5O0aKMcEuwnlbSxSkAwnvRNeoNF)
 
 ### Above is one of the recent examples of my work in Maya API (Jan - Mar)
 
