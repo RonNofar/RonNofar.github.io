@@ -5,6 +5,14 @@ Click on any image to go to video or project.
 
 # Recent work
 
+[![Maya Attribute Comparer](https://drive.google.com/uc?export=download&id=1AErA7yxkABrQGMbnYS9IqP9-9_wWd_I5)](http://github.com/RonNofar/RToolPackage)
+
+### Above is an attribute comparison tool for Maya made in Python (April)
+
+> A tool I am developing for an animator that allows the user to store and compare attribute values for any Maya node.
+> New features are being added as requested.
+> Can be found in the RTool Package repository under attributeComparerGUI.py for now but will get its own repository for distribution and organization.
+
 [![Recent Maya API work](https://drive.google.com/uc?export=download&id=1y0Jwi5O0aKMcEuwnlbSxSkAwnvRNeoNF)](http://github.com/RonNofar/RToolPackage)
 
 ### Above is one of the recent examples of my work in Maya API (Jan - Mar)
