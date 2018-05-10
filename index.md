@@ -5,6 +5,13 @@ Click on any image to go to video or project.
 
 # Recent work
 
+[![Maya Attribute Comparer v2](https://drive.google.com/uc?export=download&id=1AePrDkZU8d0DCxUX-ospVngLpSxp2e37)](http://github.com/RonNofar/RToolPackage)
+
+### Above is a newer iteration of the attribute comparison tool
+
+> I am reworking this tools to be more intuitive and reliable based on suggestions from modelers, riggers, and animators.
+> The UI has more built in functionality, allowing the user to compare specific attributes.
+
 [![Maya Attribute Comparer](https://drive.google.com/uc?export=download&id=1AErA7yxkABrQGMbnYS9IqP9-9_wWd_I5)](http://github.com/RonNofar/RToolPackage)
 
 ### Above is an attribute comparison tool for Maya made in Python (April)
